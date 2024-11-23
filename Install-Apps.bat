@@ -1,0 +1,1 @@
+powershell -noexit -file C:\IT\Install-Apps.ps1
