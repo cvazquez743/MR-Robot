@@ -1,3 +1,4 @@
 @echo off
-start "" "C:\IT\ComputerNamerv0.7.exe"
+powershell -file C:\IT\ComputerNamer.ps1
+exit
 del "%~f0"
